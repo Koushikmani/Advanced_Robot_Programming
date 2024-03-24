@@ -69,8 +69,7 @@ signal is received
 
 
 
-2. Unnamed Pipes
-taz_devil@Master-Splinter:~/Desktop/ARP_assignments/assignment1/unnamed_pipes$ make
+2. Unnamed Pipes/Desktop/ARP_assignments/assignment1/unnamed_pipes$ make
 cc     f.c   -o f
 cc     p.c   -o p
 cc     m.c   -o m
