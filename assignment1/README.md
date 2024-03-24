@@ -36,7 +36,7 @@ Each folder consists of 6 files:
 ## Expected Result
 
 1. Named Pipes
-taz_devil@Master-Splinter:~/Desktop/ARP_assignments/assignment1/named_pipes$ make
+/Desktop/ARP_assignments/assignment1/named_pipes$ make
 cc     f.c   -o f
 f.c: In function ‘main’:
 f.c:26:2: warning: implicit declaration of function ‘mkfifo’ [-Wimplicit-function-declaration]
@@ -46,7 +46,7 @@ cc     p.c   -o p
 cc     m.c   -o m
 cc     t.c   -o t
 cc     d.c   -o d
-taz_devil@Master-Splinter:~/Desktop/ARP_assignments/assignment1/named_pipes$ ./f
+/Desktop/ARP_assignments/assignment1/named_pipes$ ./f
  Select operator (p for sum, m for subtraction, t for product and d for division) 
  then press space and input the first number and then the second number 
  for all consequent operations enter operation and then the number
